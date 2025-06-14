@@ -1,0 +1,143 @@
+[
+    {
+      "pedido_id": "10001",
+      "status": "Entregue",
+      "produtos": ["PROD001", "PROD005"],
+      "data_compra": "2024-01-02",
+      "previsao_entrega": "2024-01-07"
+    },
+    {
+      "pedido_id": "10002",
+      "status": "Em trânsito",
+      "produtos": ["PROD002"],
+      "data_compra": "2024-01-15",
+      "previsao_entrega": "2024-01-20"
+    },
+    {
+      "pedido_id": "10003",
+      "status": "Cancelado",
+      "produtos": ["PROD003"],
+      "data_compra": "2024-02-01",
+      "previsao_entrega": "2024-02-06"
+    },
+    {
+      "pedido_id": "10004",
+      "status": "Entregue",
+      "produtos": ["PROD004", "PROD006", "PROD007"],
+      "data_compra": "2024-02-10",
+      "previsao_entrega": "2024-02-15"
+    },
+    {
+      "pedido_id": "10005",
+      "status": "Aguardando pagamento",
+      "produtos": ["PROD008"],
+      "data_compra": "2024-02-18",
+      "previsao_entrega": "2024-02-25"
+    },
+    {
+      "pedido_id": "10006",
+      "status": "Em trânsito",
+      "produtos": ["PROD009", "PROD010"],
+      "data_compra": "2024-03-01",
+      "previsao_entrega": "2024-03-05"
+    },
+    {
+      "pedido_id": "10007",
+      "status": "Entregue",
+      "produtos": ["PROD011"],
+      "data_compra": "2024-03-10",
+      "previsao_entrega": "2024-03-15"
+    },
+    {
+      "pedido_id": "10008",
+      "status": "Em preparação",
+      "produtos": ["PROD012", "PROD013"],
+      "data_compra": "2024-03-20",
+      "previsao_entrega": "2024-03-25"
+    },
+    {
+      "pedido_id": "10009",
+      "status": "Entregue",
+      "produtos": ["PROD014"],
+      "data_compra": "2024-04-01",
+      "previsao_entrega": "2024-04-06"
+    },
+    {
+      "pedido_id": "10010",
+      "status": "Em trânsito",
+      "produtos": ["PROD015", "PROD016"],
+      "data_compra": "2024-04-10",
+      "previsao_entrega": "2024-04-15"
+    },
+    {
+      "pedido_id": "10011",
+      "status": "Cancelado",
+      "produtos": ["PROD017"],
+      "data_compra": "2024-04-12",
+      "previsao_entrega": "2024-04-17"
+    },
+    {
+      "pedido_id": "10012",
+      "status": "Entregue",
+      "produtos": ["PROD018", "PROD019"],
+      "data_compra": "2024-04-20",
+      "previsao_entrega": "2024-04-25"
+    },
+    {
+      "pedido_id": "10013",
+      "status": "Atrasado",
+      "produtos": ["PROD020"],
+      "data_compra": "2024-04-22",
+      "previsao_entrega": "2024-04-27"
+    },
+    {
+      "pedido_id": "10014",
+      "status": "Entregue",
+      "produtos": ["PROD001", "PROD010"],
+      "data_compra": "2024-05-01",
+      "previsao_entrega": "2024-05-06"
+    },
+    {
+      "pedido_id": "10015",
+      "status": "Em trânsito",
+      "produtos": ["PROD002"],
+      "data_compra": "2024-05-05",
+      "previsao_entrega": "2024-05-10"
+    },
+    {
+      "pedido_id": "10016",
+      "status": "Entregue",
+      "produtos": ["PROD005", "PROD006"],
+      "data_compra": "2024-05-10",
+      "previsao_entrega": "2024-05-15"
+    },
+    {
+      "pedido_id": "10017",
+      "status": "Cancelado",
+      "produtos": ["PROD007"],
+      "data_compra": "2024-05-12",
+      "previsao_entrega": "2024-05-17"
+    },
+    {
+      "pedido_id": "10018",
+      "status": "Entregue",
+      "produtos": ["PROD003", "PROD004"],
+      "data_compra": "2024-05-18",
+      "previsao_entrega": "2024-05-23"
+    },
+    {
+      "pedido_id": "10019",
+      "status": "Aguardando pagamento",
+      "produtos": ["PROD008"],
+      "data_compra": "2024-05-20",
+      "previsao_entrega": "2024-05-25"
+    },
+    {
+      "pedido_id": "10020",
+      "status": "Em preparação",
+      "produtos": ["PROD009", "PROD010"],
+      "data_compra": "2024-05-22",
+      "previsao_entrega": "2024-05-27"
+    }
+  ]
+  

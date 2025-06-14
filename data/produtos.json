@@ -1,0 +1,245 @@
+[
+    {
+      "id": "PROD001",
+      "nome": "Notebook Dell Inspiron 15",
+      "categoria": "Eletrônicos",
+      "preco": 2899.99,
+      "descricao": "Notebook ideal para trabalho e estudos, com ótimo desempenho e design moderno.",
+      "especificacoes": {
+        "tela": "15.6 polegadas",
+        "processador": "Intel i5",
+        "memoria": "8GB RAM"
+      },
+      "disponivel": true
+    },
+    {
+      "id": "PROD002",
+      "nome": "Smartphone Samsung Galaxy A12",
+      "categoria": "Eletrônicos",
+      "preco": 1299.99,
+      "descricao": "Smartphone Android com tela grande e bateria de longa duração.",
+      "especificacoes": {
+        "tela": "6.5 polegadas",
+        "processador": "Octa-Core",
+        "memoria": "4GB RAM"
+      },
+      "disponivel": true
+    },
+    {
+      "id": "PROD003",
+      "nome": "Kit de Utensílios de Cozinha",
+      "categoria": "Casa",
+      "preco": 249.90,
+      "descricao": "Kit completo para quem ama cozinhar, com 10 peças em inox.",
+      "especificacoes": {
+        "material": "Inox",
+        "itens": "10 peças"
+      },
+      "disponivel": true
+    },
+    {
+      "id": "PROD004",
+      "nome": "Fone de Ouvido Bluetooth JBL",
+      "categoria": "Eletrônicos",
+      "preco": 399.99,
+      "descricao": "Fone com cancelamento de ruído e bateria de longa duração.",
+      "especificacoes": {
+        "bateria": "30h",
+        "conectividade": "Bluetooth 5.0"
+      },
+      "disponivel": true
+    },
+    {
+      "id": "PROD005",
+      "nome": "Livro - Inteligência Artificial Descomplicada",
+      "categoria": "Livros",
+      "preco": 59.90,
+      "descricao": "Uma introdução prática e acessível ao mundo da IA.",
+      "especificacoes": {
+        "autor": "João da Silva",
+        "paginas": 320
+      },
+      "disponivel": true
+    },
+    {
+      "id": "PROD006",
+      "nome": "Console PlayStation 5",
+      "categoria": "Games",
+      "preco": 4499.00,
+      "descricao": "Nova geração de jogos com desempenho e realismo incríveis.",
+      "especificacoes": {
+        "armazenamento": "1TB",
+        "resolucao": "4K"
+      },
+      "disponivel": false
+    },
+    {
+      "id": "PROD007",
+      "nome": "Máquina de Café Expresso",
+      "categoria": "Casa",
+      "preco": 899.90,
+      "descricao": "Cafeteira automática com vaporizador de leite.",
+      "especificacoes": {
+        "capacidade": "1.2L",
+        "pressao": "15 bar"
+      },
+      "disponivel": true
+    },
+    {
+      "id": "PROD008",
+      "nome": "Kindle 11ª Geração",
+      "categoria": "Eletrônicos",
+      "preco": 499.00,
+      "descricao": "Leitor digital com iluminação embutida e bateria de longa duração.",
+      "especificacoes": {
+        "armazenamento": "16GB",
+        "tela": "6 polegadas"
+      },
+      "disponivel": true
+    },
+    {
+      "id": "PROD009",
+      "nome": "Air Fryer Mondial 4L",
+      "categoria": "Casa",
+      "preco": 399.90,
+      "descricao": "Fritadeira elétrica sem óleo, mais saudável e prática.",
+      "especificacoes": {
+        "capacidade": "4L",
+        "potencia": "1500W"
+      },
+      "disponivel": true
+    },
+    {
+      "id": "PROD010",
+      "nome": "Relógio Smartwatch Xiaomi Mi Band 7",
+      "categoria": "Eletrônicos",
+      "preco": 249.90,
+      "descricao": "Acompanhe seus treinos, sono e notificações com praticidade.",
+      "especificacoes": {
+        "resistencia": "5 ATM",
+        "autonomia": "14 dias"
+      },
+      "disponivel": true
+    },
+    {
+      "id": "PROD011",
+      "nome": "Cadeira Gamer ThunderX3",
+      "categoria": "Games",
+      "preco": 1399.00,
+      "descricao": "Conforto extremo para longas sessões de jogo ou trabalho.",
+      "especificacoes": {
+        "material": "Couro PU",
+        "suporte": "150kg"
+      },
+      "disponivel": true
+    },
+    {
+      "id": "PROD012",
+      "nome": "Secador de Cabelos Taiff",
+      "categoria": "Beleza",
+      "preco": 199.90,
+      "descricao": "Potente, silencioso e com tecnologia cerâmica.",
+      "especificacoes": {
+        "potencia": "1700W",
+        "tecnologia": "Cerâmica"
+      },
+      "disponivel": true
+    },
+    {
+      "id": "PROD013",
+      "nome": "Aspirador de Pó Robô",
+      "categoria": "Casa",
+      "preco": 899.90,
+      "descricao": "Limpeza automatizada e eficiente com sensores inteligentes.",
+      "especificacoes": {
+        "autonomia": "120 min",
+        "funcoes": "Aspirar e passar pano"
+      },
+      "disponivel": true
+    },
+    {
+      "id": "PROD014",
+      "nome": "Monitor LG Ultrawide 29''",
+      "categoria": "Eletrônicos",
+      "preco": 1299.00,
+      "descricao": "Tela ultrawide com resolução Full HD para produtividade e imersão.",
+      "especificacoes": {
+        "resolucao": "2560x1080",
+        "frequencia": "75Hz"
+      },
+      "disponivel": true
+    },
+    {
+      "id": "PROD015",
+      "nome": "Câmera Canon EOS Rebel T7",
+      "categoria": "Eletrônicos",
+      "preco": 2799.00,
+      "descricao": "Capture fotos profissionais com qualidade e precisão.",
+      "especificacoes": {
+        "sensor": "CMOS 24.1MP",
+        "video": "Full HD"
+      },
+      "disponivel": true
+    },
+    {
+      "id": "PROD016",
+      "nome": "Tablet Samsung Galaxy Tab A7",
+      "categoria": "Eletrônicos",
+      "preco": 1349.00,
+      "descricao": "Ideal para estudos, leitura e entretenimento.",
+      "especificacoes": {
+        "tela": "10.4 polegadas",
+        "memoria": "3GB RAM"
+      },
+      "disponivel": true
+    },
+    {
+      "id": "PROD017",
+      "nome": "Livro - Python para Iniciantes",
+      "categoria": "Livros",
+      "preco": 49.90,
+      "descricao": "Guia completo para quem está começando no mundo da programação.",
+      "especificacoes": {
+        "autor": "Maria Tech",
+        "paginas": 280
+      },
+      "disponivel": true
+    },
+    {
+      "id": "PROD018",
+      "nome": "Jogo God of War Ragnarok - PS5",
+      "categoria": "Games",
+      "preco": 299.90,
+      "descricao": "Aventura épica com gráficos de nova geração e enredo envolvente.",
+      "especificacoes": {
+        "plataforma": "PS5",
+        "idioma": "Português BR"
+      },
+      "disponivel": true
+    },
+    {
+      "id": "PROD019",
+      "nome": "Perfume One Million Paco Rabanne",
+      "categoria": "Beleza",
+      "preco": 449.00,
+      "descricao": "Fragrância marcante e sofisticada, ideal para ocasiões especiais.",
+      "especificacoes": {
+        "volume": "100ml",
+        "origem": "Importado"
+      },
+      "disponivel": true
+    },
+    {
+      "id": "PROD020",
+      "nome": "Panela Elétrica de Arroz 10 xícaras",
+      "categoria": "Casa",
+      "preco": 189.90,
+      "descricao": "Cozimento prático e rápido de arroz e outros alimentos.",
+      "especificacoes": {
+        "capacidade": "10 xícaras",
+        "potencia": "700W"
+      },
+      "disponivel": true
+    }
+  ]
+  
